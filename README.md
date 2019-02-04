@@ -1,4 +1,4 @@
-# AI_Assignment_SearchAlgorithms
+# Search Algorithms
 In this assignment an agent created to solve the 8-puzzle game.
 Implemented and compared several search algorithms and collected some statistics related to their performances. 
 
