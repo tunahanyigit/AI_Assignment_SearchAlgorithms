@@ -2,13 +2,13 @@
 In this assignment an agent created to solve the 8-puzzle game.
 Implemented and compared several search algorithms and collected some statistics related to their performances. 
 
-#Book
+#Book# 
 Artificial Intelligence: A Modern Approach - Third Edition has been taken as reference.
 
-#Part-1
+#Part-1# 
 First part is to implement the iterative-deepening search algorithm. To do that iterativeDS and recursiveDepthLimitedSearch
 functions implemented. Other functions provided for implementing the 8-puzzle agent.
 
-#Part-2
+#Part-2# 
 Second part of the assignment is to implement the A* search algorithm. aStarSearch, aStarSearchHelper and heuristic functions implemented.
 Like the first part, Other functions provided for implementing the 8-puzzle agent.
